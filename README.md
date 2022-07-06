@@ -1,3 +1,3 @@
-# DSC495-Cybersecurity-FA2022
+# DSC495-Cybersecurity-FA22
 
-Data Science for Cybersecurity, Fall 2022, NCSU
+Data Science for Cybersecurity: Fall 2022; NCSU
