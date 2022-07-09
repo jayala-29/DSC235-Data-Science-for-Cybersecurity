@@ -2,7 +2,7 @@
 
 - Choose a cybersecurity problem, build a dataset, and show/explain its implications
 
-- Use current gaps in cybersecurity research to build a “useful” dataset
+- Use current gaps in cybersecurity research to build a “useful” dataset and analyze it
 
 - Enhance/innovate an implementation to an exisiting cybersecurity problem/solution
 
