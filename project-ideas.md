@@ -4,7 +4,7 @@
 
 - Use current gaps in cybersecurity research to build a “useful” dataset and analyze it
 
-- Enhance/innovate an implementation to an exisiting cybersecurity problem/solution
+- Enhance/create an implementation and apply it to an exisiting cybersecurity problem
 
 - Use libraries like Tensorflow or Pytorch to build a simple maching learning model for a cybersecurity problem
 
