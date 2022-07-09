@@ -1,8 +1,16 @@
 # Data Science for Cybersecurity (Fall 2022)
 
-## Description
+## Motivation
 
 In 2021 alone, a cyber attack occurred once every 39 seconds on average. Data Science for Cybersecurity will introduce students to the use of data to discover, explore, and address relevant cybersecurity use cases. Students will become familiar with fundamental approaches to tackle common cybersecurity problems using Python in this introductory-level course.
+
+## General Information
+
+Instructor: [Jessy Ayala](https://linkedin.com/in/jessy-ayala)
+
+Meeting Time: 6:00 PM EST on Thursdays (50 minutes)
+
+Zoom Link: See course email with subject line "DSC 495-602 Zoom Information"
 
 ## Learning Objectives
 
@@ -20,7 +28,7 @@ During this course, students will be able to:
 
 ## Prerequisite(s)
 
-Some familiarity with Python recommended.
+Some familiarity with Python is recommended.
 
 ## Tentative Outline
 
@@ -46,11 +54,11 @@ Project deliverables due (12/12 - 11:59 PM PST)
 
 ## Grading 
 
-60% Project (see project-guidelines.md)
+70% Project (see project-guidelines.md)
 
 20% Additional Exercises
 
-20% Attendance
+10% Attendance
 
 ## Academic Integrity
 
