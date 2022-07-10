@@ -34,15 +34,25 @@ Some familiarity with Python is recommended.
 
 Week 1: Course overview and introduction
 
-Weeks 2-5: Python review and data science libraries/usage
+Week 2: Python basics review
 
-Weeks 6-7: Cybersecurity use cases
+Week 3: Dataframes
 
-Week 8: Project proposals check-in (Checkpoint 1)
+Week 4: Data visualization
 
-Week 9-11: Cybersecurity use cases (continued)
+Week 5: Ciphers
 
-Week 12: Addressing security in open-source repositories
+Week 6: Spam or ham
+
+Week 7: URL classification
+
+Week 8: Anomaly detection
+
+Week 9: Project proposals check-in (Checkpoint 1)
+
+Week 10: Intrusion detection
+
+Week 11-12: Addressing security in open-source repositories
 
 Week 13: Project progress check-in (Checkpoint 2)
 
