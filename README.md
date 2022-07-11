@@ -12,7 +12,7 @@ Meeting Time: 6:00 PM EST on Thursdays (50 minutes)
 
 Zoom Link: See course email with subject line "DSC 495-602 Zoom Information"
 
-## Learning Objectives
+## Primary Learning Objectives
 
 During this course, students will be able to:
 
