@@ -64,11 +64,9 @@ Project deliverables due (12/12 - 11:59 PM PST)
 
 ## Grading 
 
-70% Project (see project-guidelines.md)
+80% Project (see project-guidelines.md)
 
 20% Additional Exercises
-
-10% Attendance
 
 ## Academic Integrity
 
