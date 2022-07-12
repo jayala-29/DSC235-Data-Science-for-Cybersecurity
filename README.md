@@ -14,7 +14,7 @@ Zoom Link: See course email with subject line "DSC 495-602 Zoom Information"
 
 ## Primary Learning Objectives
 
-During this course, students will be able to:
+By the end of this course, students will be able to:
 
 - Explain common use cases of data science applied to cybersecurity
 
