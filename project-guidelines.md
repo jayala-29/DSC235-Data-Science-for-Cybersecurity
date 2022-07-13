@@ -1,6 +1,6 @@
 # Project Guidelines
 
-## Due Week 8 in-lecture (Checkpoint 1 - 5%)
+## Due Week 8 by beginning of class (Checkpoint 1 - 5%)
 
 This week, you will have a problem statement due. In the linked Google doc (TBD), you will address:
 
@@ -9,7 +9,7 @@ This week, you will have a problem statement due. In the linked Google doc (TBD)
 3. Dataset: Do you think you'll have to create a dataset? Or are there some/one that exist/you already found? If so, reference them.
 4. Prediction: Is there a specific relationship you are looking for? 
 
-## Due Week 13 in-lecture (Checkpoint 2 - 5%)
+## Due Week 13 by beginning of class (Checkpoint 2 - 5%)
 
 This week, you will have a progress check-in due. In the linked Google doc (TBD), you will address:
 
@@ -18,7 +18,7 @@ This week, you will have a progress check-in due. In the linked Google doc (TBD)
 3. Obstacles: Have you encountered any surprises or unexpected problems?
 4. Workarounds: If you’re having problems, how do you intend to solve them or work around them?
 
-## Takes place Week 15 in-lecture (Presentation - 15%)
+## Due Week 15 by beginning of class (Presentation - 15%)
 
 This week, you will present your problem to your peers (3-5 minutes). In your presentation, you will address:
 
