@@ -68,7 +68,9 @@ Some familiarity with Python is recommended.
 
 70% Project
 
-30% Additional Exercises + Peer Review
+20% Additional Exercises
+
+10% Peer Review
 
 ## Academic Integrity
 
