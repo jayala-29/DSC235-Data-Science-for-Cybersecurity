@@ -66,9 +66,9 @@ Some familiarity with Python is recommended.
 
 ## Grading 
 
-80% Project
+70% Project
 
-20% Additional Exercises
+30% Additional Exercises + Peer Review
 
 ## Academic Integrity
 
