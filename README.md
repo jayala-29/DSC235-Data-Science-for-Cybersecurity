@@ -48,7 +48,7 @@ Some familiarity with Python is recommended.
 
 10/13 Week 8: Anomaly detection
 
-10/20 Week 9: Project proposals check-in (Checkpoint 1)
+10/20 Week 9: Project proposals check-in (Checkpoint 1) + Peer Review 1
 
 10/27 Week 10: Intrusion detection
 
@@ -60,7 +60,7 @@ Some familiarity with Python is recommended.
 
 11/24 Week 14: Thanksgiving (no class)
 
-12/01 Week 15: Project presentations (last class meeting)
+12/01 Week 15: Project presentations + Peer Review 2
 
 12/12 Project deliverables due (11:59 PM PST)
 
