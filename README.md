@@ -36,11 +36,11 @@ Some familiarity with Python is recommended.
 
 09/01 Week 2: Python basics review
 
-09/08 Week 3: Dataframes
+09/08 Week 3: Ciphers
 
-09/15 Week 4: Data visualization
+09/15 Week 4: Dataframes
 
-09/22 Week 5: Ciphers
+09/22 Week 5: Data visualization
 
 09/29 Week 6: Spam or ham
 
