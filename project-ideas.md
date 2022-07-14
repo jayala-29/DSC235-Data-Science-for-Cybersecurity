@@ -13,3 +13,5 @@
 - Use APIs to mine data on open-source projects over time to evaluate bug trends
 
 - Reproducing models and analyzing results from a previous cybersecurity data-driven research paper 
+
+Awesome Cybersecurity Datasets: https://github.com/shramos/Awesome-Cybersecurity-Datasets
