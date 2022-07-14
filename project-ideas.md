@@ -11,3 +11,5 @@
 - Use an existing dataset and apply a technique used in class; in addition, add enhancements and explore different parameter values
 
 - Use APIs to mine data on open-source projects over time to evaluate bug trends
+
+- Reproducing models and analyzing results from a previous cybersecurity data-driven research paper 
