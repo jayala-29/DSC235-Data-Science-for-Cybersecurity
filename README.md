@@ -82,7 +82,7 @@ Some familiarity with Python is recommended.
 
 - Take-home credit based weekly exercises, worth 3% each and due before the following lecture
 
-- 8-10 assignments and will be graded as '''min{submitted_assignments,20}'''
+- 8-10 assignments and will be graded as `min{submitted_assignments,20}`
 
 10% Peer Review
 
