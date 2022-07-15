@@ -7,7 +7,7 @@ This week, you will have a problem statement due. In the linked Google doc (TBD)
 1. Group: Who is in your group? (1-3 people)
 2. Topic: What cybersecurity-oriented topic do you think you want to address in your project?
 3. Relevance: Why is this problem interesting to you?
-4. Dataset: Do you think you'll have to create a dataset? Or are there some/one that exist/you already found? If so, reference them.
+4. Dataset: Do you think you'll have to create a dataset? Or are there some/one you already found and plan to use? If so, reference them.
 5. Prediction: Is there a specific relationship you are looking for? 
 
 ## Due Week 13 by beginning of class (Checkpoint 2 - 5%)
