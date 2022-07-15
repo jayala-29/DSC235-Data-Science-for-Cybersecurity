@@ -97,3 +97,35 @@ Students are expected to conduct themselves in a respectful and professional man
 
 ## Students with Disabilities
 The course will follow all NCSU regulations relevant to students with disabilities. Any students requiring additional assistance due to disabilities (e.g., learning disabilities), should contact the instructor during the first week of the semester. Students requiring extra time for examinations and quizzes are asked to make arrangements at least three days in advance. You may contact the NCSU Disability Services for Students Office regarding campus services at the Student Health Center for more information and assistance: http://www.ncsu.edu/dso/students
+
+## University Libraries
+
+- Library Orientation (Links to an external site)
+
+- Data and Visualization (Links to an external site)
+
+- Research Support (Links to an external site)
+
+- NC State Library Hours (Links to an external site)
+
+- Request a Library Instruction Session (Links to an external site)
+
+- Available Software (Links to an external site)
+
+## Student and Faculty Resources
+
+- Black Graduate Student Association (Links to an external site)
+
+- GLBT Center (Links to an external site)
+
+- Women’s Center (Links to an external site)
+
+- Counseling Center (Links to an external site)
+
+- Graduate Student Association (Links to an external site)
+
+- Wellness and Recreation (Links to an external site)
+
+- Getting Around Raleigh (Links to an external site)
+
+- Food and Drinks on Hillsborough Street (Links to an external site)
