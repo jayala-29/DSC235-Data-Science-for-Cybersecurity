@@ -18,6 +18,6 @@
 
 # Resources
 
-Awesome Cybersecurity Datasets: https://github.com/shramos/Awesome-Cybersecurity-Datasets
+- Awesome Cybersecurity Datasets: https://github.com/shramos/Awesome-Cybersecurity-Datasets
 
-Awesome ML for Cybersecurity: https://github.com/jivoi/awesome-ml-for-cybersecurity
+- Awesome ML for Cybersecurity: https://github.com/jivoi/awesome-ml-for-cybersecurity
