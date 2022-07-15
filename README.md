@@ -1,4 +1,4 @@
-# DSC-495-602: Data Science for Cybersecurity
+# DSC-495-602: Data Science for Cybersecurity (DRAFT)
 
 ## Motivation
 
