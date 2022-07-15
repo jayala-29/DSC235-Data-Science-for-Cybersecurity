@@ -70,9 +70,23 @@ Some familiarity with Python is recommended.
 
 70% Course Project
 
+- Checkpoints: 10%
+
+- Presentation: 15%
+
+- Deliverables: 45%
+
+- See project guidelines for more details and breakdown
+
 20% Additional Exercises
 
+- Take-home credit based weekly exercises, worth 3% each and due before the following lecture
+
+- 8-10 assignments and will be graded as '''min{submitted_assignments,20}'''
+
 10% Peer Review
+
+- Peer review on others' project checkpoints/submissions, 2-3 based on number of groups
 
 ## Academic Integrity
 
