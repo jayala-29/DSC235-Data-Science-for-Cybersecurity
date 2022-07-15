@@ -66,7 +66,7 @@ Some familiarity with Python is recommended.
 
 ## Grading 
 
-70% Project
+70% Course Project
 
 20% Additional Exercises
 
