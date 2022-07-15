@@ -68,7 +68,7 @@ Some familiarity with Python is recommended.
 
 ## Grading 
 
-70% Course Project
+70% Course Project (built-upon throughout the semester)
 
 - Checkpoints: 10%
 
@@ -78,13 +78,13 @@ Some familiarity with Python is recommended.
 
 - See project guidelines for more details and actual grade breakdown
 
-20% Additional Exercises
+20% Additional Exercises (weekly)
 
-- Take-home credit based weekly exercises, worth 3% each and due before the following lecture
+- Take-home and credit-based assignments, worth 3% each and due before the following lecture
 
 - 8-10 assignments and will be graded as `min{submitted_assignments,20}`
 
-10% Peer Review
+10% Peer Review (multiple instances)
 
 - Peer review on others' project checkpoints/submissions, 2-3 based on number of groups
 
