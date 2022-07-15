@@ -114,32 +114,28 @@ The course will follow all NCSU regulations relevant to students with disabiliti
 
 ## University Libraries
 
-- Library Orientation (Links to an external site)
+- [Library Orientation](https://www.lib.ncsu.edu/orientation)
 
-- Data and Visualization (Links to an external site)
+- [Data and Visualization](https://www.lib.ncsu.edu/services/data-visualization)
 
-- Research Support (Links to an external site)
+- [Research Support](https://www.lib.ncsu.edu/services/research-support)
 
-- NC State Library Hours (Links to an external site)
+- [NC State Library Hours](https://www.lib.ncsu.edu/hours/hill/general)
 
-- Request a Library Instruction Session (Links to an external site)
+- [Request a Library Instruction Session](https://www.lib.ncsu.edu/request-instruction)
 
-- Available Software (Links to an external site)
+- [Available Software](https://www.lib.ncsu.edu/software)
 
-## Student and Faculty Resources
+## Student Resources
 
-- Black Graduate Student Association (Links to an external site)
+- [Black Graduate Student Association](https://bgsa.wordpress.ncsu.edu/)
 
-- GLBT Center (Links to an external site)
+- [GLBT Center](https://diversity.ncsu.edu/glbt)
 
-- Women’s Center (Links to an external site)
+- [Women’s Center](https://diversity.ncsu.edu/womens-center/)
 
-- Counseling Center (Links to an external site)
+- [Counseling Center](https://counseling.dasa.ncsu.edu/)
 
-- Graduate Student Association (Links to an external site)
+- [Graduate Student Association](https://orgs.ncsu.edu/gsa/)
 
-- Wellness and Recreation (Links to an external site)
-
-- Getting Around Raleigh (Links to an external site)
-
-- Food and Drinks on Hillsborough Street (Links to an external site)
+- [Wellness and Recreation](https://wellrec.dasa.ncsu.edu/)
