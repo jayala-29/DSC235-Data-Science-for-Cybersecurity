@@ -76,7 +76,7 @@ Some familiarity with Python is recommended.
 
 - Deliverables: 45%
 
-- See project guidelines for more details and breakdown
+- See project guidelines for more details and actual grade breakdown
 
 20% Additional Exercises
 
