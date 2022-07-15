@@ -6,7 +6,7 @@
 
 - Enhance/create an implementation and apply it to an exisiting cybersecurity problem
 
-- Use libraries like Tensorflow or Pytorch to build a simple maching learning model for a cybersecurity problem
+- Use libraries like sklearn, tensorflow, or pytorch to build a simple maching learning model for a cybersecurity problem
 
 - Use an existing dataset and apply a technique used in class; in addition, add enhancements and explore different parameter values
 
