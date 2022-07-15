@@ -1,4 +1,4 @@
-# Data Science for Cybersecurity (Fall 2022)
+# DSC-495-602: Data Science for Cybersecurity (Fall 2022)
 
 ## Motivation
 
