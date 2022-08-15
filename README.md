@@ -1,5 +1,10 @@
 # DSC-495-602: Data Science for Cybersecurity (DRAFT)
 
+## Data Science Academy 
+Welcome to an NCSU Data Science Academy Course! In July 2021, the university-wide and interdisciplinary Data Science Academy (DSA) was launched to meet the growing needs of data science research, education and expertise in North Carolina and beyond. At NC State, Data Science is for Everyone. Data Science Academy Courses are designed to make sure that each student can pursue appropriate level challenges through opportunities to make choices and pursue projects of interest. DSA courses will highlight the work of a diverse group of data scientists, bring attention to ethical issues, teach design for accessibility, and explore current issues in data science research and practice. The DSA will develop courses that attract and serve students from all ten NCSU colleges and beyond. Whether you have never thought about data science before or bring experience and expertise, we welcome you. Our goal is that after each DSA class you want to learn more! 
+
+To make sure that we are providing an appropriate collection of courses with a variety of challenge levels within each course, we will be collecting data to help us build a practice of continuous improvement. The purpose of the data is to evaluate the DSA and how well we are serving our students. We hope to be able to share what we learn with other universities and researchers - we will ask your permission at the beginning of the course to be able to share your de-identified data when we communicate about the work of the DSA.
+
 ## Motivation
 
 In 2021 alone, a cyber attack occurred once every 39 seconds on average. Data Science for Cybersecurity will introduce students to the use of data to discover, explore, and address relevant cybersecurity use cases. Students will become familiar with fundamental approaches to tackle common cybersecurity problems using Python in this introductory-level course.
