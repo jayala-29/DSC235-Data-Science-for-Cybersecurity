@@ -36,14 +36,14 @@ what is shown in lecture and the additional exercises:
 
 1. Finalized Problem Statement [5 points]
 - Topic, relevance, and initial prediction
-3. Dataset [10 points]
+2. Dataset [10 points]
 - Is there an existing dataset? [5 points] 
     - If so, how is it useful for your problem? 
         - Can anything be removed? Why?
     - If not, how will you create one?
         - What did you add? Why?
 - Explain each “useful” component of your dataset (which/how do the column headers contribute to your problem?) [5 points]
-4. Analysis [15 points]
+3. Analysis [15 points]
 - How can we analyze the data? [10 points]
     - Are you using a machine learning model?
         - Which one? Why?
@@ -52,11 +52,11 @@ what is shown in lecture and the additional exercises:
 - Explain your approach and how the “innards” work [5 points]
     - Provide any references you used 
     - Explain why you chose this approach
-5. Visualization [10 points]
+4. Visualization [10 points]
 - How can the results be visualized? [5 points]
     - Confusion matrix? Plots? Etc.
 - How can the visual help us address the problem? Does it reflect what you expected? [5 points]
     - Clear relationship shown? No relationship shown? Accurate predictions by the model? Etc.
-6. Insights [5 points]
+5. Insights [5 points]
 - What are three insights gained from the results? [3 points]
 - Did everything go as expected? Explain [2 points]
