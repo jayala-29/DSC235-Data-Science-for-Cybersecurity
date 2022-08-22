@@ -91,13 +91,13 @@ Some familiarity with Python is recommended.
 
 10% Discussion Board (bi-weekly ish)
 
-- 5-7 discussion board responses, worth 2% each and due before the following lecture
+- 5-7 discussion board responses, worth 2% each and due before the following lecture (`min{submitted_discussions,10}`)
 
 - Active responses to others' posts may bump grade up at the end depending on where you stand, though not required
 
 10% Peer Review (two instances)
 
-- Peer review on others' project checkpoints/submissions, 2-3 based on number of groups
+- Peer review on others' project checkpoints/submissions, worth 5% each requiring 2-3 responses based on number of groups
 
 ## Academic Integrity
 
