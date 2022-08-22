@@ -97,7 +97,7 @@ Some familiarity with Python is recommended.
 
 - 6-8 discussion board responses, worth 3% each and due before the following lecture `min{submitted_discussions,15}`
 
-- Active responses to others' posts may bump grade up at the end depending on where you stand, though not required
+- Active responses to multiple posts may bump grade up at the end depending on where you stand, though not required
 
 ## Academic Integrity
 
