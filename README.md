@@ -17,7 +17,7 @@ Meeting Time: 6:00 PM EST on Thursdays (50 minutes)
 
 Format: Online
 
-Zoom Link: See course email with subject line "DSC 495-602 Zoom Information"
+Zoom Link: See Moodle
 
 ## Primary Learning Objectives
 
