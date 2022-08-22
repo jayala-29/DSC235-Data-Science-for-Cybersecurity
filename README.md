@@ -13,6 +13,8 @@ In 2021 alone, a cyber attack occurred once every 39 seconds on average. Data Sc
 
 Instructor: [Jessy Ayala](https://linkedin.com/in/jessy-ayala)
 
+Email: `jayala2 [at] ncsu [dot] edu`
+
 Meeting Time: 6:00 PM EST on Thursdays (50 minutes)
 
 Format: Online
