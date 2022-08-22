@@ -29,20 +29,20 @@ This week, you will present your problem to your peers (3-5 minutes). In your pr
 3. How you plan to analyze your data. Did you filter any data? Did you use a ML algorithm? Did you modify/create an algorithm? Etc.
 4. Any obstacles you've overcome/forsee before submitting your project.
 
-## Due December 12, 11:59 PM PST (Deliverable - 45%)
+## Due December 12, 11:59 PM PST (Deliverable - 35%)
 
 The following should be addressed in a Jupyter notebook including samples of the dataset, reproducible models, visuals shown/rendered, etc. similar to
-what is shown in lecture and the additional exercises:
+what is shown in lecture and the additional exercises (breakdown of 50 possible points):
 
 1. Finalized Problem Statement [5 points]
 - Topic, relevance, and initial prediction
-2. Dataset [10 points]
+2. Dataset [15 points]
 - Is there an existing dataset? [5 points] 
     - If so, how is it useful for your problem? 
         - Can anything be removed? Why?
     - If not, how will you create one?
         - What did you add? Why?
-- Explain each “useful” component of your dataset (which/how do the column headers contribute to your problem?) [5 points]
+- Explain each “useful” component of your dataset (which/how do the column headers contribute to your problem?) [10 points]
 3. Analysis [15 points]
 - How can we analyze the data? [10 points]
     - Are you using a machine learning model?
