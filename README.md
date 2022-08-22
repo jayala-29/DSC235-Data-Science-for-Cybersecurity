@@ -93,7 +93,7 @@ Some familiarity with Python is recommended.
 
 - 5-7 discussion board responses, worth 2% each and due before the following lecture
 
-- active responses to others' posts may bump grade at the end depending on where you stand, though not required
+- Active responses to others' posts may bump grade up at the end depending on where you stand, though not required
 
 10% Peer Review (two instances)
 
