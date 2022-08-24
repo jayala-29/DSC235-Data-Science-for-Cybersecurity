@@ -81,7 +81,7 @@ Some familiarity with Python is recommended.
 
 - Presentation: 15%
 
-- Final Deliverable: 25%
+- Deliverable(s): 25%
 
 - See project guidelines for more details and actual point breakdown
 
