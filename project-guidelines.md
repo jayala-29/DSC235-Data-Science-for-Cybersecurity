@@ -2,7 +2,7 @@
 
 ## Due Week 8 by beginning of class (Checkpoint 1 - 5%)
 
-This week, you will have a problem statement due. In the linked Google doc (TBD), you will address:
+This week, you will have a problem statement due. In the linked ([Google Doc](https://docs.google.com/document/d/1p4p6RNCNMB-S2uAUwYGq6zbZbgtlO0XtSsGb0kmQSXY/edit?usp=sharing)) - make sure you are signed in with your NCSU email, you will address:
 
 1. Group: Who is in your group? (1-3 people)
 2. Topic: What cybersecurity-oriented topic do you think you want to address in your project?
