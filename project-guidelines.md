@@ -29,7 +29,7 @@ This week, you will present your problem to your peers (3-5 minutes). In your pr
 3. How you plan to analyze your data. Did you filter any data? Did you use a ML algorithm? Did you modify/create an algorithm? Etc.
 4. Any obstacles you've overcome/forsee before submitting your project.
 
-## Due December 12, 11:59 PM PST (Deliverable - 35%)
+## Due December 12, 11:59 PM PST (Deliverable - 25%)
 
 The following should be addressed in a Jupyter notebook including samples of the dataset, reproducible models, visuals shown/rendered, etc. similar to
 what is shown in lecture and the additional exercises (breakdown of 50 possible points):
