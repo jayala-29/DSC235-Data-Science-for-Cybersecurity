@@ -55,9 +55,9 @@ Some familiarity with Python is recommended.
 
 10/06 Week 7: URL classification
 
-10/13 Week 8: Anomaly detection
+10/13 Week 8: Project proposals check-in (Checkpoint 1)
 
-10/20 Week 9: Project proposals check-in
+10/20 Week 9: Anomaly Detection
 
 10/27 Week 10: Intrusion detection
 
@@ -65,7 +65,7 @@ Some familiarity with Python is recommended.
 
 11/10 Week 12: Addressing security in open-source repositories (continued)
 
-11/17 Week 13: Project progress check-in
+11/17 Week 13: Project progress check-in (Checkpoint 2)
 
 11/24 Week 14: Thanksgiving (no class)
 
