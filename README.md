@@ -93,7 +93,7 @@ Some familiarity with Python is recommended.
 
 15% Peer Review (three instances)
 
-- Peer review on others' project checkpoints/submissions, worth 5% each requiring 2-3 feedbacks given based on number of groups
+- Peer review on others' project submissions, worth 5% each requiring 2-3 feedbacks given based on number of groups
 
 15% Discussion Board (bi-weekly ish)
 
