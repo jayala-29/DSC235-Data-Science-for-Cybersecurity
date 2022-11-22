@@ -22,7 +22,7 @@ This week, you will have a progress check-in due. In the linked Google Doc (on M
 
 ## Due Week 15 (Presentation - 15%)
 
-This week, you will present your problem to your peers (3-5 minutes). In your presentation, you will address:
+This week, you will present your problem to your peers (4-8 minutes). In your presentation, you will address:
 
 1. What topic you are addressing in your project? Why is it interesting to you?
 2. A description of your dataset, regardless if it already exists or you created it yourself.
