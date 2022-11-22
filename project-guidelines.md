@@ -24,7 +24,7 @@ This week, you will have a progress check-in due. In the linked Google Doc (on M
 
 This week, you will present your problem to your peers (4-8 minutes). In your presentation, you will address:
 
-1. What topic you are addressing in your project? Why is it interesting to you?
+1. What topic are you addressing in your project? Why is it interesting to you?
 2. A description of your dataset, regardless if it already exists or you created it yourself.
 3. How you plan to analyze your data. Did you filter any data? Did you use a ML algorithm? Did you modify/create an algorithm? Etc.
 4. Any obstacles you've overcome/forsee before submitting your project.
