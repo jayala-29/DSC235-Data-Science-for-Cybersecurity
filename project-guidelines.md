@@ -2,7 +2,7 @@
 
 ## Due Week 8 (Checkpoint 1 - 5%)
 
-This week, you will have a problem statement due. In the linked ([Google Doc](https://docs.google.com/document/d/1p4p6RNCNMB-S2uAUwYGq6zbZbgtlO0XtSsGb0kmQSXY/edit?usp=sharing)) - make sure you are signed in with your NCSU email, you will address:
+This week, you will have a problem statement due. In the linked Google Doc (on Moodle) - make sure you are signed in with your NCSU email, you will address:
 
 1. Group: Who is in your group? (1-3 people)
 2. Topic: What cybersecurity-oriented topic do you think you want to address in your project?
@@ -12,7 +12,7 @@ This week, you will have a problem statement due. In the linked ([Google Doc](ht
 
 ## Due Week 13 (Checkpoint 2 - 5%)
 
-This week, you will have a progress check-in due. In the linked Google doc (TBD), you will address:
+This week, you will have a progress check-in due. In the linked Google Doc (on Moodle), you will address:
 
 1. Update: What cybersecurity-oriented topic are you going to address in your project?
 2. Progress: What have you accomplished so far? What do you have left to do?
@@ -28,6 +28,8 @@ This week, you will present your problem to your peers (3-5 minutes). In your pr
 2. A description of your dataset, regardless if it already exists or you created it yourself.
 3. How you plan to analyze your data. Did you filter any data? Did you use a ML algorithm? Did you modify/create an algorithm? Etc.
 4. Any obstacles you've overcome/forsee before submitting your project.
+
+In the linked Google Doc (on Moodle), provide a link to your video by the deadline.
 
 ## Due December 12, 11:59 PM PST (Deliverable - 25%)
 
