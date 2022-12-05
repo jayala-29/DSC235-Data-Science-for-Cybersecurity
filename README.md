@@ -75,13 +75,13 @@ Some familiarity with Python is recommended.
 
 ## Grading 
 
-50% Course Project (built-upon throughout the semester)
+55% Course Project (built-upon throughout the semester)
 
 - Checkpoints: 10%
 
 - Presentation: 15%
 
-- Deliverable(s): 25%
+- Deliverable(s): 30%
 
 - See project guidelines for more details and actual point breakdown
 
@@ -91,7 +91,7 @@ Some familiarity with Python is recommended.
 
 - 8-10 assignments and will be graded as `min{submitted_assignments,20}`
 
-15% Peer Review (three instances)
+10% Peer Review (two instances)
 
 - Peer review on others' project submissions, worth 5% each requiring 2-3 feedbacks given based on number of groups
 
