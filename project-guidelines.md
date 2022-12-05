@@ -31,7 +31,7 @@ This week, you will present your problem to your peers (4-8 minutes). In your pr
 
 In the linked Google Doc (on Moodle), provide a link to your video by the deadline.
 
-## Due December 12, 11:59 PM PST (Deliverable - 25%)
+## Due December 12 (Deliverable - 25%)
 
 The following should be addressed in a Jupyter notebook including samples of the dataset, reproducible models, visuals shown/rendered, etc. similar to
 what is shown in lecture and the additional exercises (breakdown of 50 possible points):
