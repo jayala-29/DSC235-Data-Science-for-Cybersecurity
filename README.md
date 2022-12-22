@@ -41,37 +41,37 @@ Some familiarity with Python is recommended.
 
 ## Tentative Outline
 
-08/25 Week 1: Course overview and introduction
+Week 1: Course overview and introduction
 
-09/01 Week 2: Python basics review
+Week 2: Python basics review
 
-09/08 Week 3: Ciphers
+Week 3: Ciphers
 
-09/15 Week 4: Dataframes
+Week 4: Dataframes
 
-09/22 Week 5: Data visualization
+Week 5: Data visualization
 
-09/29 Week 6: Spam or ham
+Week 6: Spam or ham
 
-10/06 Week 7: URL classification
+Week 7: URL classification
 
-10/13 Week 8: Project proposals check-in (Checkpoint 1)
+Week 8: Project proposals check-in (Checkpoint 1)
 
-10/20 Week 9: Anomaly Detection
+Week 9: Anomaly Detection
 
-10/27 Week 10: Intrusion detection
+Week 10: Intrusion detection
 
-11/03 Week 11: Addressing security in open-source repositories
+Week 11: Addressing security in open-source repositories
 
-11/10 Week 12: Addressing security in open-source repositories (continued)
+Week 12: Addressing security in open-source repositories (continued)
 
-11/17 Week 13: Project progress check-in (Checkpoint 2)
+Week 13: Project progress check-in (Checkpoint 2)
 
-11/24 Week 14: Thanksgiving (no class)
+Week 14: Thanksgiving (no class)
 
-12/01 Week 15: Project presentations
+Week 15: Project presentations
 
-12/12 Project deliverables due (11:59 PM PST)
+Week 16: Project deliverables due 
 
 ## Grading 
 
