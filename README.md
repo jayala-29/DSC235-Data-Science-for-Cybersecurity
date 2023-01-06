@@ -15,7 +15,7 @@ Instructor: [Jessy Ayala](https://linkedin.com/in/jessy-ayala)
 
 Email: `jayala2 [at] ncsu [dot] edu`
 
-Meeting Time: 6:00 PM EST on Thursdays (50 minutes)
+Meeting Time: 6:00 PM EST on Tuesdays (50 minutes)
 
 Format: Online
 
@@ -89,7 +89,7 @@ Week 16: Project deliverables due
 
 - Take-home and credit-based assignments, worth 3% each and due before the following lecture
 
-- 8-10 assignments and will be graded as `min{submitted_assignments,20}`
+- 7-9 assignments and will be graded as `min{submitted_assignments,20}`
 
 10% Peer Review (two instances)
 
@@ -97,7 +97,7 @@ Week 16: Project deliverables due
 
 15% Discussion Board (bi-weekly ish)
 
-- 6-8 discussion board responses, worth 3% each and due before the following lecture `min{submitted_discussions,15}`
+- 5-7 discussion board responses, worth 3% each and due before the following lecture `min{submitted_discussions,15}`
 
 - Active responses to multiple posts may bump grade up at the end depending on where you stand, though not required
 
