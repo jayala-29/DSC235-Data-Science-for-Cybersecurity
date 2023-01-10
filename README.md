@@ -57,17 +57,17 @@ Week 7: URL classification
 
 Week 8: Project proposals check-in (Checkpoint 1)
 
-Week 9: Anomaly Detection
+Week 9: Anomaly detection
 
-Week 10: Intrusion detection
+Week 10: Spring break (no class)
 
-Week 11: Addressing security in open-source repositories
+Week 11: Intrusion detection
 
-Week 12: Addressing security in open-source repositories (continued)
+Week 12: Addressing security in open-source repositories
 
 Week 13: Project progress check-in (Checkpoint 2)
 
-Week 14: Thanksgiving (no class)
+Week 14: Work on project
 
 Week 15: Project presentations
 
