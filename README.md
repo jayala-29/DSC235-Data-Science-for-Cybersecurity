@@ -75,13 +75,13 @@ Week 16: Project deliverables due
 
 ## Grading 
 
-55% Course Project (built-upon throughout the semester)
+50% Course Project (built-upon throughout the semester)
 
 - Checkpoints: 10%
 
 - Presentation: 15%
 
-- Deliverable(s): 30%
+- Deliverable(s): 25%
 
 - See project guidelines for more details and actual point breakdown
 
@@ -91,15 +91,19 @@ Week 16: Project deliverables due
 
 - 7-9 assignments and will be graded as `min{submitted_assignments,20}`
 
-10% Peer Review (two instances)
-
-- Peer review on others' project submissions, worth 5% each requiring 2-3 feedbacks given based on number of groups
-
 15% Discussion Board (bi-weekly ish)
 
 - 5-7 discussion board responses, worth 3% each and due before the following lecture `min{submitted_discussions,15}`
 
 - Active responses to multiple posts may bump grade up at the end depending on where you stand, though not required
+
+10% Peer Review (two instances)
+
+- Peer review on others' project submissions, worth 5% each requiring 2-3 feedbacks given based on number of groups
+
+5% Attendance
+
+- Weekly online presence, attending required synchronous meetings, etc.
 
 ## Academic Integrity
 
