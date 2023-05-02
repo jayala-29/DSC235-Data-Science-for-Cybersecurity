@@ -15,7 +15,7 @@ Instructor: [Jessy Ayala](https://linkedin.com/in/jessy-ayala)
 
 Email: `jayala2 [at] ncsu [dot] edu`
 
-Meeting Time: 6:00 PM EST on Tuesdays (50 minutes)
+Meeting Time: See Moodle (50 minutes, once per week)
 
 Format: Online
 
