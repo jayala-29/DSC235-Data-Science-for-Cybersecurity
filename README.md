@@ -43,7 +43,7 @@ Some familiarity with Python is recommended.
 
 Week 1: Course overview and introduction
 
-Week 2: Python basics review
+Week 2: Python basics intro
 
 Week 3: Ciphers
 
