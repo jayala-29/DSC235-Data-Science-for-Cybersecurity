@@ -93,7 +93,7 @@ Week 16: Project deliverables due
 
 - 6 discussion board assignments, worth 3% each and due before the following lecture
 
-- Active responses to multiple posts may bump grade up at the end depending on where you stand, though not required
+- Active responses to multiple posts may bump grade up at the end depending on where you stand
 
 10% Peer Review (two instances)
 
