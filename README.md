@@ -59,7 +59,7 @@ Week 8: Project proposals check-in (Checkpoint 1)
 
 Week 9: Anomaly detection
 
-Week 10: Spring break (no class)
+Week 10: Fall/Spring break (no class)
 
 Week 11: Intrusion detection
 
