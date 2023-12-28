@@ -73,7 +73,7 @@ Week 15: Project presentations
 
 Week 16: Project deliverables due 
 
-## Grading 
+## Grading
 
 50% Course Project (built-upon throughout the semester)
 
@@ -85,25 +85,19 @@ Week 16: Project deliverables due
 
 - See project guidelines for more details and actual point breakdown
 
-20% Additional Exercises (weekly)
+24% Additional Exercises (weekly)
 
-- Take-home and credit-based assignments, worth 3% each and due before the following lecture
+- 8 take-home and credit-based assignments, worth 3% each and due before the following lecture
 
-- 7-9 assignments and will be graded as `min{submitted_assignments,20}`
+18% Discussion Board (bi-weekly ish)
 
-15% Discussion Board (bi-weekly ish)
-
-- 5-7 discussion board responses, worth 3% each and due before the following lecture `min{submitted_discussions,15}`
+- 6 discussion board assignments, worth 3% each and due before the following lecture
 
 - Active responses to multiple posts may bump grade up at the end depending on where you stand, though not required
 
 10% Peer Review (two instances)
 
-- Peer review on others' project submissions, worth 5% each requiring 2-3 feedbacks given based on number of groups
-
-5% Attendance
-
-- Weekly online presence, attending required synchronous meetings, etc.
+- Peer review on others' project submissions, worth 5% each requiring 2 feedback responses
 
 ## Academic Integrity
 
