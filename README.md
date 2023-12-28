@@ -73,7 +73,7 @@ Week 15: Project presentations
 
 Week 16: Project deliverables due 
 
-## Grading
+## Grading (includes 2% extra credit)
 
 50% Course Project (built-upon throughout the semester)
 
