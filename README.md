@@ -15,7 +15,7 @@ Instructor: [Jessy Ayala](https://linkedin.com/in/jessy-ayala)
 
 Email: `jayala2 [at] ncsu [dot] edu`
 
-Meeting Time: See Moodle (50 minutes, once per week)
+Meeting Time: See Moodle
 
 Format: Online
 
