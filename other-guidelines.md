@@ -1,6 +1,6 @@
 # Other Guidelines
 
-## Additional Exercises (~21% of overall grade)
+## Additional Exercises (~24% of overall grade)
 
 In most weeks, there will be supplemental additional exercises that will allow you to further expand upon what we discussed during lecture
 and provide different approaches that can be applied in your projects. These are not meant to be difficult or time-consuming as we will be
