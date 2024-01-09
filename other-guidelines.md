@@ -12,6 +12,6 @@ Each of these assignments is worth 3%.
 
 For this portion of the grade, you will (1) respond to the prompt using at least 50 words and (2) respond to someone else's post in a way that is elaborate or adds to a potential follow-up discssion (e.g. I like the way you stated... I think... Have you considered...).
 
-## Peer Review (10% of overall grade)
+## Peer Review (~10% of overall grade)
 
 For this portion of the grade, you will be required to give feedback on 2-3 others' project milestones/submissions depending on the amount of groups there are. 
